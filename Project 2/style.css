@@ -1,0 +1,16 @@
+#page-banner {
+     background-color: blue;
+     /* position: fixed; */
+}
+
+.header {
+     flex-direction: column;
+}
+
+.page-link {
+     font-size: 20;
+}
+
+.subsec-header {
+     background-color: red;
+}
